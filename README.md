@@ -21,7 +21,12 @@ Or install it yourself as:
 
 ## Usage
 
-$> lex-sort <file>
+$> lexical-sickness <action> [options]
+    -f, --file File                  File to cure
+    -m, --models                     Cure all files under app/models dir
+    -v, --version                    Show the current version of this gem
+
+    -h, --help                       Show this help message.
 
 ## Contributing
 
