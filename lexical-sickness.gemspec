@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_development_dependency 'rspec', '~> 2.5'
-  
+  gem.add_development_dependency 'sourcify', '0.6.0.rc2'
 end
